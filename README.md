@@ -56,8 +56,3 @@ Pandas
 NumPy
 Jupyter Notebook
 Power BI
-
-## Dashboard Preview
-
-(Add dashboard screenshot here)
-
